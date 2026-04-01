@@ -5,9 +5,9 @@ Madrona Ridge: Sovereign Pentad Archive Located on Mudge Island, BC, Madrona Rid
 | ID | Variety | Phase | Source / Provenance | Status (March 31) |
 | :--- | :--- | :--- | :--- | :--- |
 | **SR-01** | **Sovereign Coronation** | **Secured** | **Edenbank Farm (1866)** | **Woody Bud Phase** |
-| **SR-02** | **Sovereign Opal** | **Acquisition** | **Sandhill / Okanagan** | **Inbound Trial** |
+| **SR-02** | **Sovereign Opal** | **Found** | **Sandhill / Okanagan** | **Inbound Trial** |
 | **SR-03** | **Sovereign Rose** | **Search** | **Similkameen Heritage** | **Active Bounty** |
 | **SR-04** | **Sovereign Noir** | **Search** | **Summerland (SuRDC)** | **Phase III Target** |
 | **SR-05** | **Sovereign Tiara** | **Search** | **BC Vineyard Network** | **Future Accession** |
 
-> **Note:** Phenological data is updated weekly. Current trials focus on the **Terroir-Genotype Interaction** within the Mudge Island Volcanic Gneiss.
+> **Note:** Current Phenological data. Current trials focus on the **Terroir-Genotype Interaction** within the Mudge Island Volcanic Gneiss.
