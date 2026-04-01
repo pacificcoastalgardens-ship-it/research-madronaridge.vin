@@ -14,12 +14,9 @@ Our flagship **Sovereign Coronation** was recovered from the boundary of the his
 
 | ID | Variety | Phase | Origin | 2026 Phenology |
 | :--- | :--- | :--- | :--- | :--- |
-| **SR-01** | **Sovereign Coronation** | **Secured 2024** | **Edenbank Farm (1866)** |
+| **SR-01** | **Sovereign Coronation** | **Secured** | **Edenbank Farm (1866)** | **Woody Bud Phase** |
 | **SR-02** | **Sovereign Opal** | *Inbound* | Sandhill Legacy | Pending |
 | **SR-03** | **Sovereign Rose** | *Search* | Similkameen Heritage | **Bounty Active** |
-| **SR-04** | **Sovereign Noir** | *Search* | Summerland (SuRDC) | Phase III |
-| **SR-05** | **Sovereign Tiara** | **Search** | **BC Vineyard Network** | **Future Accession** |
----
 
 ### 🔬 Research Objectives
 * **Phenological Tracking:** Monitoring the adaptation of Summerland hybrids to maritime-volcanic buffers.
