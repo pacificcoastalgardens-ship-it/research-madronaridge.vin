@@ -24,7 +24,7 @@ Our flagship **Sovereign Coronation** was recovered from the boundary of the his
 ### 🔬 Research Objectives
 * **Phenological Tracking:** Monitoring the adaptation of Summerland hybrids to maritime-volcanic buffers.
 * **Terroir Interaction:** Documenting the "Acid-Sugar Delta" on high-UV Gneiss terraces.
-* **Genetic Sanctuary:** Providing a secondary site for heritage BC viticulture wood.
-
+* **Genetic Sanctuary:** Providing a secure site for heritage BC viticulture wood.
+**Contact:** research@madronaridge.vin
 ---
 *“Rescuing the past to architect the future of the Ridge.”*
