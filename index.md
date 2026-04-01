@@ -3,7 +3,7 @@
 ![Sovereign Coronation Woody Bud Phase](coronation-bud2026.jpg)
 **Location:** Mudge Island, BC | 200ft Vertical Terraces | Volcanic Gneiss
 **Research Lead:** [Ricardo A. Mair/Principal Conservator]
-**Contact:** research@madronaridge.vin
+**Contact:**[research@madronaridge.vin](mailto:research@madronaridge.vin)
 
 ---
 
@@ -14,7 +14,7 @@ Our flagship **Sovereign Coronation** was recovered from the boundary of the his
 
 | ID | Variety | Phase | Origin | 2026 Phenology |
 | :--- | :--- | :--- | :--- | :--- |
-| **SR-01** | **Sovereign Coronation** | **Secured** | **Edenbank Farm (1866)** | **Woody Bud Phase** |
+| **SR-01** | **Sovereign Coronation** | **Secured 2024** | **Edenbank Farm (1866)** |
 | **SR-02** | **Sovereign Opal** | *Inbound* | Sandhill Legacy | Pending |
 | **SR-03** | **Sovereign Rose** | *Search* | Similkameen Heritage | **Bounty Active** |
 | **SR-04** | **Sovereign Noir** | *Search* | Summerland (SuRDC) | Phase III |
@@ -25,6 +25,6 @@ Our flagship **Sovereign Coronation** was recovered from the boundary of the his
 * **Phenological Tracking:** Monitoring the adaptation of Summerland hybrids to maritime-volcanic buffers.
 * **Terroir Interaction:** Documenting the "Acid-Sugar Delta" on high-UV Gneiss terraces.
 * **Genetic Sanctuary:** Providing a secure site for heritage BC viticulture wood.
-**Contact:** research@madronaridge.vin
+**Contact:** [research@madronaridge.vin](mailto:research@madronaridge.vin)
 ---
 *“Rescuing the past to architect the future of the Ridge.”*
