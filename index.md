@@ -7,10 +7,10 @@
 
 ---
 
-### 🏛️ The Edenbank Gladiator (Accession #001)
+### The Edenbank Gladiator (Accession #001)
 Our flagship **Sovereign Coronation** was recovered from the boundary of the historic **A.C. Wells Edenbank Farm (est. 1866)** in Sardis, BC. Found integrated into a decades-old perimeter fence between a riparian creek and urban encroachment, this "Gladiator" vine demonstrates the extreme resilience of the Sovereign series. It is currently our primary subject for tracking adaptation from alluvial valley silt to high-mineral volcanic rock.
 
-### 📊 Current Accession Ledger (Spring 2026)
+### Current Accession Ledger (Spring 2026)
 
 | ID | Variety | Phase | Source / Provenance | Status (March 31) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ Our flagship **Sovereign Coronation** was recovered from the boundary of the his
 | **SR-04** | **Sovereign Noir** | **Search** | **Summerland (SuRDC)** | **Phase III Target** |
 | **SR-05** | **Sovereign Tiara** | **Search** | **BC Vineyard Network** | **Future Accession** |
 
-### 🔬 Research Objectives
+### Research Objectives
 * **Phenological Tracking:** Monitoring the adaptation of Summerland hybrids to maritime-volcanic buffers.
 * **Terroir Interaction:** Documenting the "Acid-Sugar Delta" on high-UV Gneiss terraces.
 * **Genetic Sanctuary:** Providing a secure site for heritage BC viticulture wood.
@@ -28,3 +28,7 @@ Our flagship **Sovereign Coronation** was recovered from the boundary of the his
 **Contact:** [View Technical Logs & Accession History →](README.md)
 ---
 *“Rescuing the past to architect the future of the Ridge.”*
+### The Gneiss Report: 2026 Season
+* [April: The Arctic Hammer & Thermal Resilience](The-Gneiss-Report/2026-04-April.md)
+* *May: (Coming Soon)*
+
