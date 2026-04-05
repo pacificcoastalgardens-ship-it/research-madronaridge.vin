@@ -30,6 +30,8 @@ Our flagship **Sovereign Coronation** was recovered from the boundaries of the h
 *“Rescuing the past to architect the future of the Ridge.”*
 ### The Gneiss Report: 2026 Season
 * [April: The Arctic Hammer & Thermal Resilience](The-Gneiss-Report/2026-04-April.md)
-* Specimen Field Notes SR-01: The Sovereign Gladiator (1866 Edenbank Heritage)(Accession-Notes/SR-01-Sovereign-Gladiator.md)
 * *May: (Coming Soon)*
+* Specimen Field Notes: [**SR-01: The Sovereign Gladiator** (1866 Edenbank Heritage)](Accession-Notes/SR-01-Sovereign-Gladiator.md)
+* *SR-02: Sovereign Opal (Pending Accession)*
+
   
