@@ -8,7 +8,7 @@
 ---
 
 ### The Edenbank Gladiator (Accession #001)
-Our flagship **Sovereign Coronation** was recovered from the boundary of the historic **A.C. Wells Edenbank Farm (est. 1866)** in Sardis, BC. Found integrated into a decades-old perimeter fence between a riparian creek and urban encroachment, this "Gladiator" vine demonstrates the extreme resilience of the Sovereign series. It is currently our primary subject for tracking adaptation from alluvial valley silt to high-mineral volcanic rock.
+Our flagship **Sovereign Coronation** was recovered from the boundaries of the historic **A.C. Wells Edenbank Farm (est. 1866)** and the legendary **BCH/John I. Haas hops breeding and research farm** (the largest in the British Commonwealth) in Sardis, BC. Found integrated into a decades-old perimeter fence and a massive hop vine between a riparian creek and urban encroachment, this "Gladiator" vine demonstrates the extreme resilience of the Sovereign series. It is currently our primary subject for tracking adaptation from alluvial valley silt to high-mineral volcanic rock.
 
 ### Current Accession Ledger (Spring 2026)
 
