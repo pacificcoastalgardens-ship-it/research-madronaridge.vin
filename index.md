@@ -1,4 +1,4 @@
-# MADRONA RIDGE ESTATE
+# MADRONA RIDGE ESTATE VINEYARD
 ## The Sovereign Pentad Archive: Genetic Continuity Trials
 ![Sovereign Coronation Woody Bud Phase](coronation-bud2026.jpg)
 **Location:** Mudge Island, BC | 200ft Vertical Terraces | Volcanic Gneiss
