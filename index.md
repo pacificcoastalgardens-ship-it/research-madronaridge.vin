@@ -2,7 +2,7 @@
 ## The Sovereign Pentad Archive: Genetic Continuity Trials
 ![Sovereign Coronation Woody Bud Phase](coronation-bud2026.jpg)
 **Location:** Mudge Island, BC | 200ft Vertical Terraces | Volcanic Gneiss
-**Research Lead:** [Ricardo A. Mair/Principal Conservator]
+**Research Lead:** Ricardo A. Mair/Principal Conservator
 **Contact:**[research@madronaridge.vin](mailto:research@madronaridge.vin)
 
 ---
